@@ -7,3 +7,5 @@ Aujourd'hui en DOJO nous avons vu, sur la base de Codingame, un exercice afin de
 Avec divers critères : 
 8 caractères
 1 Maj 1 Min  1 chiffre. 
+
+Dojo 7/01/2016
